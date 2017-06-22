@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c04408bc-a4e6-4a3c-9ec5-86063e624d24" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/.sailsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/Procfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/controllers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/policies/sessionAuth.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/responses/badRequest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/responses/created.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/responses/forbidden.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/responses/notFound.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/responses/ok.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/responses/serverError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/api/services/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/assets/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/assets/images/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/assets/js/dependencies/sails.io.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/assets/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/assets/styles/importer.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/assets/templates/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/blueprints.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/connections.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/cors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/csrf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/env/development.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/env/production.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/globals.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/http.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/i18n.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/locales/_README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/locales/de.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/locales/en.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/locales/es.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/locales/fr.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/log.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/models.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/policies.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/routes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/session.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/sockets.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/config/views.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/clean.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/coffee.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/concat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/copy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/cssmin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/jst.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/less.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/sails-linker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/sync.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/uglify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/config/watch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/pipeline.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/buildProd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/compileAssets.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/linkAssets.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/linkAssetsBuild.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/linkAssetsBuildProd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/prod.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/tasks/register/syncAssets.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/views/403.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/views/404.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/views/500.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/views/homepage.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-sails/views/layout.ejs" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -89,7 +17,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,6 +26,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test-sails/Procfile" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -131,6 +60,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -145,8 +76,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,6 +94,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/test-sails" />
     </key>
   </component>
@@ -259,12 +189,13 @@
       <option name="presentableId" value="Default" />
       <updated>1498119697357</updated>
       <workItem from="1498119699996" duration="3645000" />
-      <workItem from="1498125950516" duration="53000" />
+      <workItem from="1498125950516" duration="620000" />
+      <workItem from="1498126654901" duration="230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3698000" />
+    <option name="totallyTimeSpent" value="4495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1906" y="43" width="1705" height="937" extended-state="0" />
@@ -304,11 +235,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test-sails/Procfile" />
-    <entry file="file://$PROJECT_DIR$/test-sails/app.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-sails/Procfile" />
+    <entry file="file://$PROJECT_DIR$/test-sails/app.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
